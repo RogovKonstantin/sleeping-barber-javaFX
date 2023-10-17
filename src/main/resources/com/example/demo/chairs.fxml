@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="527.0" prefWidth="683.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Circle fx:id="firstChair" fill="WHITE" layoutX="89.0" layoutY="241.0" radius="75.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="thirdChair" fill="WHITE" layoutX="594.0" layoutY="241.0" radius="75.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="secondChair" fill="WHITE" layoutX="342.0" layoutY="241.0" radius="75.0" stroke="BLACK" strokeType="INSIDE" />
+   </children>
+</AnchorPane>
